@@ -11,7 +11,7 @@ Go, also known as Golang, is a statically typed, compiled language designed at G
 The repository is structured as follows:
 
 - `basics/`: This directory contains exercises related to basic concepts in Go such as variables, data types, etc.
-- more will come...
+- `rssagg/`: This directory contains a project that fetch RSS feeds and save them in a database, managing also users and authentication with Api Key.
 
 ## :rocket: How to Use
 
